@@ -1,0 +1,1 @@
+A Library is a collection of books and other resources.
