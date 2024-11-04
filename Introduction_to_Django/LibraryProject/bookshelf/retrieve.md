@@ -1,8 +1,8 @@
 from models import Book
 
 command-
-Book.object.get():
-book = book.object.get(title = “1984”)
+Book.objects.get():
+book = book.objects.get(title = “1984”)
 print(book)
 
 #Expected Output
