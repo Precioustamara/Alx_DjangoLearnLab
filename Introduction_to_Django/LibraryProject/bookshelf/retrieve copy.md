@@ -1,8 +1,8 @@
-from models import Book
+from .models import Book
 
-command-
+***command for delete**
 book.delete():
 Book.objects.all()
 
 #Expected Output
- queryset =[ ]
+ QuerySet =[ ]

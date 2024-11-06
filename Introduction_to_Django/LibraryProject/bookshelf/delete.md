@@ -1,6 +1,6 @@
 from bookshelf.models import Book
 
-command-
+***command for delete**
 Book.objects.all():
 book.delete()
 

@@ -1,9 +1,9 @@
-from models import Book
+from .models import Book
 
-command-
+***command for retrieve/read**-
 Book.objects.get():
-book = book.objects.get(title = “1984”)
-print(book)
+book = Book.objects.get(title = “1984”)
+print(book.title, book.author, book.publication_year)
 
 #Expected Output
- title 1984, author George Orwell, and publication year 1949.
+  1984, George Orwell, 1949.

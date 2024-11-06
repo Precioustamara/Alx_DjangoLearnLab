@@ -1,5 +1,6 @@
-from models import Book
+from .models import Book
 
+***command for update**
 book.title = "Nineteen Eighty-Four” 
 print(book.title)
 
